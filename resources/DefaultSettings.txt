@@ -1,0 +1,6 @@
+Settings to pass to simulator.
+//////////////////////////////
+audiopath=C:
+resolution=1920X1080
+ticks=60
+fps=60
